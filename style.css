@@ -109,6 +109,10 @@ body {
   margin-bottom: 2rem;
 }
 
+.attribution {
+  text-align: center;
+}
+
 @media (min-width: 64em) {
   .stats-card {
     max-width: 110rem;
